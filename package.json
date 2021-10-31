@@ -1,0 +1,28 @@
+{
+  "name": "soil-web-framework",
+  "version": "0.0.1",
+  "description": "secure, scalable and performant web framework; batteries and Dockerfile included",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpattis/soil.git"
+  },
+  "keywords": [
+    "web",
+    "framework",
+    "secure",
+    "scalable"
+  ],
+  "author": "fpattis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fpattis/soil/issues"
+  },
+  "homepage": "https://github.com/fpattis/soil#readme",
+  "dependencies": {
+    "soil-core-framework": "^0.0.1"
+  }
+}

@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/fpattis/soil#readme",
   "dependencies": {
-    "soil-core-framework": "^0.0.1"
-  }
+    "soil-core-framework": "^0.0.1",
+    "uWebSockets.js": "https://github.com/uNetworking/uWebSockets.js/archive/refs/tags/v20.4.0.tar.gz"
+  },
+  "type": "module"
 }
